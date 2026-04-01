@@ -3,7 +3,7 @@ name = "bdr-object-validation-code"
 version = "0.0.0"
 description = "Validation tooling for BDR object work."
 requires-python = ">=3.12,<3.13"
-dependencies = []
+dependencies = ["httpx>=0.28,<0.29"]
 
 [dependency-groups]
 local = []
