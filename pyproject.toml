@@ -1,0 +1,11 @@
+[project]
+name = "bdr-object-validation-code"
+version = "0.0.0"
+description = "Validation tooling for BDR object work."
+requires-python = ">=3.12,<3.13"
+dependencies = []
+
+[dependency-groups]
+local = []
+staging = []
+prod = []
